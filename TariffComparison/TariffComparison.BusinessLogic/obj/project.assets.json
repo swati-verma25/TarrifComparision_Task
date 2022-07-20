@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TariffComparison.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "TarriffComparison.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TariffComparison.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TariffComparison.Repository.dll": {}
+        }
+      },
+      "TarriffComparison.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TarriffComparison.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TarriffComparison.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TariffComparison.Repository/1.0.0": {
+      "type": "project",
+      "path": "../TariffComparison.Repository/TariffComparison.Repository.csproj",
+      "msbuildProject": "../TariffComparison.Repository/TariffComparison.Repository.csproj"
+    },
+    "TarriffComparison.Entity/1.0.0": {
+      "type": "project",
+      "path": "../TarriffComparison.Entity/TarriffComparison.Entity.csproj",
+      "msbuildProject": "../TarriffComparison.Entity/TarriffComparison.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "TariffComparison.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\swati.1.verma\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\assignment\\latest\\TariffComparison\\TariffComparison.BusinessLogic\\TariffComparison.BusinessLogic.csproj",
+      "projectName": "TariffComparison.BusinessLogic",
+      "projectPath": "D:\\assignment\\latest\\TariffComparison\\TariffComparison.BusinessLogic\\TariffComparison.BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\swati.1.verma\\.nuget\\packages\\",
+      "outputPath": "D:\\assignment\\latest\\TariffComparison\\TariffComparison.BusinessLogic\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\swati.1.verma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nitl-nuget.uk.coforgetech.com/NuGet/nuget/": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\assignment\\latest\\TariffComparison\\TariffComparison.Repository\\TariffComparison.Repository.csproj": {
+              "projectPath": "D:\\assignment\\latest\\TariffComparison\\TariffComparison.Repository\\TariffComparison.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

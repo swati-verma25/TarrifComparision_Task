@@ -1,0 +1,9 @@
+D:\assignment\latest\TariffComparison\TarriffComparison.Entity\bin\Debug\netcoreapp3.1\TarriffComparison.Entity.deps.json
+D:\assignment\latest\TariffComparison\TarriffComparison.Entity\bin\Debug\netcoreapp3.1\TarriffComparison.Entity.dll
+D:\assignment\latest\TariffComparison\TarriffComparison.Entity\bin\Debug\netcoreapp3.1\TarriffComparison.Entity.pdb
+D:\assignment\latest\TariffComparison\TarriffComparison.Entity\obj\Debug\netcoreapp3.1\TarriffComparison.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\latest\TariffComparison\TarriffComparison.Entity\obj\Debug\netcoreapp3.1\TarriffComparison.Entity.AssemblyInfoInputs.cache
+D:\assignment\latest\TariffComparison\TarriffComparison.Entity\obj\Debug\netcoreapp3.1\TarriffComparison.Entity.AssemblyInfo.cs
+D:\assignment\latest\TariffComparison\TarriffComparison.Entity\obj\Debug\netcoreapp3.1\TarriffComparison.Entity.csproj.CoreCompileInputs.cache
+D:\assignment\latest\TariffComparison\TarriffComparison.Entity\obj\Debug\netcoreapp3.1\TarriffComparison.Entity.dll
+D:\assignment\latest\TariffComparison\TarriffComparison.Entity\obj\Debug\netcoreapp3.1\TarriffComparison.Entity.pdb
